@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Karim-Daouas
 - 
-- 👀 I’m interested in full-stack developement and Machine Learning
+- 👀 I’m interested in front-end developement and Machine Learning
 - 
-- 🌱 I’m currently learning Java and Deep Learning
+- 🌱 I’m currently learning JavaScript and PHP
 - 
 - 💞️ I’m looking for a internship of 6 month in IT
 - 

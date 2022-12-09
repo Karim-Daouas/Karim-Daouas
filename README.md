@@ -8,7 +8,5 @@
 - 
 - 📫 How to reach me : karim.daoaus@mines-albi.fr
 - 
-- [Karim_Resume.pdf](https://github.com/Karim-Daouas/Karim-Daouas/files/9998409/Karim_Resume.pdf)
-
-
+-[Karim_Resume.pdf](https://github.com/Karim-Daouas/Karim-Daouas/files/10194500/Karim_Resume.pdf)
 
